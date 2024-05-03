@@ -1,0 +1,3 @@
+It's an electronic store application where you can manage users, shopping carts, products, and categories through RESTful APIs. I structured the codebase using controllers, services, DTOs, and entities for clarity and maintainability. Security-wise, I integrated JWT authentication and Google Single Sign-On using Spring Security for robust protection. Plus, I mastered Data JPA for efficient database operations and used Swagger for clear API documentation.
+
+But that's not all! I also delved into Docker for containerization, AWS for cloud deployment, and JUnit for comprehensive testing.
